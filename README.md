@@ -4,7 +4,7 @@
 ## Cloth and Springs
 The following is a an example of X11 programming in a UNIX environment.
 The video is a simulation of springs and cloth using C++ and X11 libraries.
-![Simulation](./img/Simulation.mp4)
+![Simulation](https://user-images.githubusercontent.com/46102354/141011112-8bec1532-80b3-4774-9dd7-caf0d87d8c3c.mp4)
 
 ## Pixels on a screen
 The following is a screen capture of pixels on a screen rendering a checkerboard
