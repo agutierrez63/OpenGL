@@ -32,7 +32,7 @@ using OpenGL and C++.
 ## texture Mapping
 The following is a video of a texture mapped box using 
 OpenGL and C++.
-![Texture_Map](./img/Rotation.mp4)
+![Texture_Map](https://user-images.githubusercontent.com/46102354/141011366-21ced208-7ddc-4c62-aeb2-a2162e8321c9.mp4)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
