@@ -20,16 +20,19 @@ project and applying Perlin Noise.
 The following are samples of scenes rendered on a simple ray tracer
 using OpenGL and C++.
 
-### Animation
-![Animation](./img/Animation.gif)
-
 ### Cornell Box
 ![Cornell_Box](./img/Cornell_Box.png)
 
 ### Ray Tracer
 ![Ray_Tracer](./img/Ray_Tracer.png)
 
+### Animation
+![Animation](./img/Animation.gif)
 
+## texture Mapping
+The following is a video of a texture mapped box using 
+OpenGL and C++.
+![Texture_Map](./img/Rotation.mp4)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
